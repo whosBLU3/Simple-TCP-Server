@@ -1,6 +1,6 @@
 # Simple TCP Server
 
-Golang Docs For More About Golang [!https://go.dev/doc/]
+Golang Docs For More About Golang [Here!] (https://go.dev/doc/)
 
 # Features!
 
